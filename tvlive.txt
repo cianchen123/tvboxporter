@@ -40,10 +40,6 @@ CCTV-13,http://1.195.111.251:11190/tsfile/live/0013_1.m3u8
 CCTV-14,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
 CCTV-15,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
 
-CETV-1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
-CETV-2,http://txycsbl.centv.cn/zb/0822cetv2.m3u8
-CETV-3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
-CETV-4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 CCTV-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV-2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV-2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
