@@ -76,7 +76,7 @@
 {"key":"小学","name":"🅱️小学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/cianchen123/tvboxporter/main/sub/小学课堂.json"},
 {"key":"初中","name":"🅱️初中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/cianchen123/tvboxporter/main/sub/初中课堂.json"},
 {"key":"高中","name":"🅱️高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/cianchen123/tvboxporter/main/sub/高中课堂.json"}
-{"key":"py_cctv","name": "央视┃PY","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/cianchen123/tvboxporter/main/央视片库.py"},
+{"key":"cctv","name": "央视┃PY","type": 3,"api":"py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/cianchen123/tvboxporter/main/央视片库.py"},
   ],
 "parses": [{
     "name": "Json聚合",
