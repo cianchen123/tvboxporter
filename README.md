@@ -2,3 +2,4 @@
 https://ghproxy.com/https://raw.githubusercontent.com/cianchen123/tvboxporter/main/tvbox8.17.json
 直播https://ghproxy.com/https://github.com/cianchen123/tvboxporter/blob/main/tvlive.txt
 免代理访问方法：https://ghproxy.com/
+http://xhww.fun:63/%E5%B0%8F%E7%B1%B3/DEMO.json
