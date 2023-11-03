@@ -39,8 +39,16 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$弹"
-    },
-    {
+    },{
+      "key": "csp_XYQBiu_1985电影网",
+      "name": "1985电影网",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/cianchen123/tvboxporter/raw/main/sub/1985%E7%94%B5%E5%BD%B1%E7%BD%91.json"
+    },{
       "key": "世界",
       "name": "🌐世界┃聚合",
       "type": 3,
