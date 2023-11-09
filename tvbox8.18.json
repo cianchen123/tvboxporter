@@ -28,6 +28,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.kuin.one/api.php/app/"
+    },{
+      "key": "夸克资源",
+      "name": "夸克资源┃大昌影音",
+      "type": 1,
+      "api": "http://kuakezy1.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "csp_woggcli",
