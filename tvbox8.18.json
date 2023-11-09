@@ -28,7 +28,25 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+    },{
+      "key": "csp_XBPQ_不休影院",
+      "name": "不休影院┃大昌影音",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "线路数组": "<a href=\"#playlist&&</li>",
+        "线路标题": "传说接口",
+        "播放数组": "<div id=\"playlist&&</ul>",
+        "搜索链接前缀": "https://www.bxiutv.com",
+        "免嗅": "1",
+        "分类url": "https://www.bxiutv.com/btop/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+        "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian",
+        "筛选": "1"
+      }
+       },
     {
       "key": "csp_WoGG",
       "name": "🎈玩偶┃4K(弹幕)",
