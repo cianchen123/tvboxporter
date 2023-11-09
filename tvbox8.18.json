@@ -19,7 +19,16 @@
     "playerType":2 ,
     "playUrl":"https://jx.xmflv.com/?url=",
     "categories": ["连续剧","动漫"]
-  },
+  },{
+      "key": "狐狸",
+      "name": "狐狸影视┃影音",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
     {
       "key": "csp_woggcli",
       "name": "✨玩偶┃T4T4K",
@@ -30,7 +39,7 @@
       "filterable": 1
     },{
       "key": "csp_XBPQ_不休影院",
-      "name": "不休影院┃大昌影音",
+      "name": "不休影院┃影音",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
