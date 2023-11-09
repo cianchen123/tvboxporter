@@ -62,8 +62,16 @@
         "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian",
         "筛选": "1"
       }
-       },
-    {
+       },{
+      "key": "csp_appys_影探8",
+      "name": "影探4K┃大昌影音",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://ytcms.lyyytv.cn/api.php/app/"
+    },{
       "key": "csp_WoGG",
       "name": "🎈玩偶┃4K(弹幕)",
       "type": 3,
